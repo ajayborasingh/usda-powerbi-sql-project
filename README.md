@@ -136,4 +136,4 @@ This project demonstrates end-to-end data analysis:
 
 * Raw data → Cleaning → Modeling → Visualization
 
-It reflects practical skills required for a **Data Analyst role**, including SQL, data cleaning, and dashboarding.
+It taught me practical skills required for a **Data Analyst role**, including SQL, data cleaning, and dashboarding.
