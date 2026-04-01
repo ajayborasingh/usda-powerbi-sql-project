@@ -77,7 +77,8 @@ Data was originally spread across multiple tables:
 
 ##  Power BI Dashboard Features
 
-<img width="1292" height="729" alt="image" src="https://github.com/user-attachments/assets/06acc005-d8c4-43c8-b2fa-60bf659773e9" />
+<img width="1295" height="731" alt="image" src="https://github.com/user-attachments/assets/19ba5ff6-eb24-4fa2-ac92-c753e977fdc1" />
+
 
 
 
